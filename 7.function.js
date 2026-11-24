@@ -34,7 +34,7 @@ function intro(user="Guest",role="Guest"){
     console.log("hello",user,"you are",role);
 }
 
-//function with return type
+function with return type
 
 function out(user="Guest",role="Guest"){
     const message = "Hello"+" "+user +".you are" + " "+role+".";
